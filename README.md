@@ -1,5 +1,7 @@
 # 💫 About Me:
-Im currently learning Machine learning <br>and deep learning... <br><br>
+I`m a Computer Science student...
+Im currently learning Machine learning and deep learning... <br>
+
 
 
 ## 🌐 Socials:
