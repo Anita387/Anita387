@@ -1,5 +1,5 @@
 # 💫 About Me:
-I`m a Computer Science student...
+Im a Computer Science student...<br>
 Im currently learning Machine learning and deep learning... <br>
 
 
